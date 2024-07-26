@@ -1,7 +1,13 @@
 # RouteProject
  Project to get familiarized with routing in vue
 
- # To update the docs folder using git so your changes can reflect on your github website
+ <!-- 
+ --------------------------------------------------------------------------------------------------
+ 
+ # TO UPDATE THE DOCS FOLDER USING GIT SO YOUR CHANGES CAN REFLECT ON YOUR GITHUB WEBSITE
+ 
+ --------------------------------------------------------------------------------------------------
+
  # Rebuild the project
 npm run build
 
@@ -14,5 +20,7 @@ mv dist/* docs/
 # Commit and push the changes
 git add docs
 git commit -m "Deploy updated build to GitHub Pages"
-git push origin main
+git push origin main 
+
+-->
 
