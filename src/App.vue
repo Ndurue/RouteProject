@@ -5,11 +5,20 @@ import { RouterView } from 'vue-router';
 </script>
 
 <template>
-  <!-- <router-view> </router-view> -->
-   <RouterView></RouterView>
+  <body>
+      <!-- <router-view> </router-view> -->
+       <RouterView></RouterView>
+  </body>
 </template>
 
 <style>
+
+body{
+    height:100vh;
+    display: flex;
+    place-items: center;
+}
+
   .container {
   display: flex;
   justify-content: center;

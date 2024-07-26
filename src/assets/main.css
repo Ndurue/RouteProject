@@ -18,9 +18,7 @@ a,
 
 }
 
-body{
-  margin: 0 auto;
-}
+
 
 @media (hover: hover) {
   a:hover {
