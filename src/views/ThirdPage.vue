@@ -20,9 +20,9 @@ import { RouterLink } from 'vue-router';
 </template>
 
 <style scoped>
-@media (max-width: 523px) {
+/* @media (max-width: 523px) {
   .container {
     flex-direction: column; 
   }
-}
+} */
 </style>
