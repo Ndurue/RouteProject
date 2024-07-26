@@ -22,9 +22,5 @@ console.log('Third Page Loaded');
 </template>
 
 <style scoped>
-/* @media (max-width: 523px) {
-  .container {
-    flex-direction: column; 
-  }
-} */
+
 </style>
