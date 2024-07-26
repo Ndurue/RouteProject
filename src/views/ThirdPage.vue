@@ -1,7 +1,5 @@
 <script setup>
 import { RouterLink } from 'vue-router';
-console.log('Third Page Loaded');
-
 </script>
 
 <template>
