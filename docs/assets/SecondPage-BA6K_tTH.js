@@ -1,1 +1,0 @@
-import{c,a as e,w as t,u as a,o as n,R as s,b as o}from"./index-D5TGJhIs.js";const r={class:"container"},_=o("div",{class:"btn"},"First Page",-1),d=o("div",{class:"btn"},"Third Page",-1),p={__name:"SecondPage",setup(i){return(l,u)=>(n(),c("div",r,[e(a(s),{to:"/"},{default:t(()=>[_]),_:1}),e(a(s),{to:"/thirdpage"},{default:t(()=>[d]),_:1})]))}};export{p as default};
