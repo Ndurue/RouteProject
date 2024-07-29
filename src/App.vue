@@ -27,6 +27,7 @@ body{
 
 .btn {
   padding: .7em 2em;
+  text-align: center;
   /* color: black;
   background: #ccc; */
 }
